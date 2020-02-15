@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tlv_alumni/static/css/main.d1d31914.chunk.css",
+    "main.js": "/tlv_alumni/static/js/main.84408b28.chunk.js",
+    "main.js.map": "/tlv_alumni/static/js/main.84408b28.chunk.js.map",
+    "runtime-main.js": "/tlv_alumni/static/js/runtime-main.ed9dfb1a.js",
+    "runtime-main.js.map": "/tlv_alumni/static/js/runtime-main.ed9dfb1a.js.map",
+    "static/js/2.ed83f41c.chunk.js": "/tlv_alumni/static/js/2.ed83f41c.chunk.js",
+    "static/js/2.ed83f41c.chunk.js.map": "/tlv_alumni/static/js/2.ed83f41c.chunk.js.map",
+    "index.html": "/tlv_alumni/index.html",
+    "precache-manifest.3f360fa38e7906cc5bee5be7d521aa62.js": "/tlv_alumni/precache-manifest.3f360fa38e7906cc5bee5be7d521aa62.js",
+    "service-worker.js": "/tlv_alumni/service-worker.js",
+    "static/css/main.d1d31914.chunk.css.map": "/tlv_alumni/static/css/main.d1d31914.chunk.css.map",
+    "static/js/2.ed83f41c.chunk.js.LICENSE": "/tlv_alumni/static/js/2.ed83f41c.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed9dfb1a.js",
+    "static/js/2.ed83f41c.chunk.js",
+    "static/css/main.d1d31914.chunk.css",
+    "static/js/main.84408b28.chunk.js"
+  ]
+}
